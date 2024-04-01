@@ -441,3 +441,19 @@ msgstr ""
 msgctxt "#32132"
 msgid "Enable Yosemite"
 msgstr ""
+
+msgctxt "#34001"
+msgid "On"
+msgstr ""
+
+msgctxt "#34002"
+msgid "Day Only"
+msgstr ""
+
+msgctxt "#34003"
+msgid "Night Only"
+msgstr ""
+
+msgctxt "#34004"
+msgid "Off"
+msgstr ""

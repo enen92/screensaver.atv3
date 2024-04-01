@@ -441,3 +441,20 @@ msgstr "Ativar West Africa to the Alps"
 msgctxt "#32132"
 msgid "Enable Yosemite"
 msgstr "Ativar Yosemite"
+
+msgctxt "#34001"
+msgid "On"
+msgstr "Ligadas"
+
+msgctxt "#34002"
+msgid "Day Only"
+msgstr "Apenas Dia"
+
+msgctxt "#34003"
+msgid "Night Only"
+msgstr "Apenas a Noite"
+
+msgctxt "#34004"
+msgid "Off"
+msgstr "Desligado"
+
